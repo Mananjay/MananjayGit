@@ -1,0 +1,2 @@
+This is git common things
+I am a git user.
