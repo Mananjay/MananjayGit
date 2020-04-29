@@ -18,3 +18,4 @@ public interface PrCostCenter extends KeyedDLO{
 	
 	boolean isBlocked();	
 }//EndInterface
+//Added last line
